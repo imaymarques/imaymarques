@@ -3,7 +3,7 @@
 
 - 🔭 For now, I'm working as a massage therapist.
 - 🌱 Studying Full Stack Web Development by Trybe.
-- 📫 My e-mail é mayaramarquescosta@outlook.com
+- 📫 My e-mail is mayaramarquescosta@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fact about me: I'm in a career transition and I'm loving learning about technology.
 
