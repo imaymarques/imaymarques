@@ -1,11 +1,11 @@
 ### Olá! Eu sou a Mayara Marques :sunflower:, estudante de tecnologia e futura Dev!
 
 
-- 🔭 Eu hoje estou trabalhando com massoterapia, por enquanto.
-- 🌱 Estou estudando Desenvolvimento Web Full Stack pela Trybe.
-- 📫 Meu e-mail é mayaramarquescosta@outlook.com
-- 😄 Pronomes: ela/dela
-- ⚡ Um fato sobre mim: estou em mudança de carreira e adorando tecnologia!
+- 🔭 For now, I'm working as a massage therapist.
+- 🌱 Studying Full Stack Web Development by Trybe.
+- 📫 My e-mail é mayaramarquescosta@outlook.com
+- 😄 Pronouns: she/her
+- ⚡ Fact about me: I'm in a career transition and I'm loving learning about technology.
 
 <div align="center">
   <a href="https://https://www.linkedin.com/in/mayaramarquescosta/">
