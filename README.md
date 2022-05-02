@@ -1,4 +1,4 @@
-### Olá! Eu sou a Mayara Marques :sunflower:, estudante de tecnologia e futura Dev!
+### Hi! I'm Mayara Marques :sunflower:, and I'm a technology studant from Brasil!
 
 
 - 🔭 For now, I'm working as a massage therapist.
