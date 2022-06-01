@@ -29,6 +29,6 @@
   <a href = "mailto:mayaramarquescosta@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayaramarquescosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <div align="right">
-<img src="https://user-images.githubusercontent.com/104644939/166156353-ee97e5d4-6c4e-4426-bb77-a47f853bd55a.gif" width="150px" />
+      <img src="https://user-images.githubusercontent.com/104644939/166156353-ee97e5d4-6c4e-4426-bb77-a47f853bd55a.gif" width="150px" height="150px"/>
     </div>
   </div>
