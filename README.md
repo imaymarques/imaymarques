@@ -1,4 +1,4 @@
-### Hi! I'm Mayara Marques :sunflower:, and I'm a technology studant from Brasil!
+### Hi! I'm Mayara Marques :sunflower:, and I'm a Software Engineer from Brasil!
 
 
 - 🔭 For now, I'm working as a massage therapist.
