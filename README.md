@@ -2,7 +2,7 @@
 
 In the last year I have been studying and developing fullstack projects for Trybe, using technologies such as HTML, CSS, JavaScript, React, Node.js, Sequelize, SQL, MySQL, Software Architecture MSC, TypeScript, POO, SOLID and MongoDB. I am also familiar with tools such as Git, Visual Studio Code and Docker.
 
-I am a quick learner and always eager to expand my knowledge and skills. I am committed to producing high-quality work and am comfortable working in a team environment.
+I am a quick learner and always eager to expand my knowledge and skills. I am committed to producing high-quality work and I am comfortable working in a team environment.
 
 If you are looking for a junior fullstack developer who is eager to learn and contribute to your team, please don't hesitate to contact me. I would be thrilled to work with you on your next project.
 
