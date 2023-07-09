@@ -6,8 +6,8 @@ I am a quick learner and always eager to expand my knowledge and skills. I am co
 
 If you are looking for a junior fullstack developer who is eager to learn and contribute to your team, please don't hesitate to contact me. I would be thrilled to work with you on your next project.
 
-- 🌱 Studying Full Stack Web Development by Trybe.
-- 📫 My e-mail is mayaramarquescosta@outlook.com
+- 🌱 Full Stack Web Developer with foccus on Back-End.
+- 📫 My e-mail is mayaramarquesdev@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fact about me: I'm in a career transition and I'm loving learning about technology.
 
